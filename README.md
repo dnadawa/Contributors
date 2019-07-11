@@ -8,3 +8,4 @@ Add yourself as contributor
 | Rajat Goyal | rajat-smpx |
 |DR4G0N|THE|G0D|WAS|HERE|
 | Kumuthu Gamage | kumugamage |
+| Dulaj Nadawa | dnadawa |
